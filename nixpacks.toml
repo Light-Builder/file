@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["libopus", "libffi"]
+nixPkgs = ["libopus", "libffi", "python313-audioop"]

@@ -1,2 +1,5 @@
+[build]
+pythonVersion = "3.12"
+
 [deploy]
 startCommand = "python bot.py"
